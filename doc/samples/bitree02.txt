@@ -1,0 +1,6 @@
+// This is a simple bitree.
+bitree = 1(2(4,5),3(,6))
+
+// Add global properties.
+[EdgeXIncrement=5, EdgeYIncrement=5]
+[BorderColor=0x0000FFFF, EdgeColor=0x0000FFFF]

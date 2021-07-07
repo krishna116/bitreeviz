@@ -1,0 +1,2 @@
+// This is a simple bitree.
+bitree = 1(a,b)
